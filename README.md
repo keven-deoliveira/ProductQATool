@@ -14,3 +14,10 @@ ______
 
 # Examples
 
+![example1](https://github.com/keven-deoliveira/ProductQATool/blob/main/images/example1.png)
+
+![example2](https://github.com/keven-deoliveira/ProductQATool/blob/main/images/example2.png)
+
+![example3](https://github.com/keven-deoliveira/ProductQATool/blob/main/images/example3.png)
+
+![example4](https://github.com/keven-deoliveira/ProductQATool/blob/main/images/example4.png)
